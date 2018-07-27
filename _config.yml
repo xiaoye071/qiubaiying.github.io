@@ -12,7 +12,7 @@ github_repo: "https://github.com/xiaoye071/xiaoye071.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "XY",
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
